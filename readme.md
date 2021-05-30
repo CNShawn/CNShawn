@@ -1,12 +1,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)
 
-### Hi there 😅
+### Hi there :heart_eyes:
 
-- 😅 a freshman to college😅
+- :cry: A noob in ShenZhen University:dizzy_face:
 
-- 😅 interested in CV😅
+- :trophy: interested in Computer Vision and Audio:kissing_smiling_eyes:
 
-- 😅关注我的微信公众号“EF实验室”
+- :memo:A New Kaggler:crystal_ball: 
+
+- :smirk_cat:Welcome to subsribe my Wechat channel "EF实验室":open_hands:
 
   <!--
 
