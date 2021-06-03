@@ -2,7 +2,7 @@
 
 ### Hi there :heart_eyes:
 
-- :cry: A noob in ShenZhen University:dizzy_face:
+- :cry:I’m A noob in ShenZhen University:dizzy_face:
 
 - :trophy: interested in Computer Vision and Audio:kissing_smiling_eyes:
 
