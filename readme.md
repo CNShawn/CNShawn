@@ -11,10 +11,10 @@
 🖥️ A New Kaggler, aim to learn more theory and experience through competition.  
 
 
-🌃if you meet me in social media at midnight, please tell me to sleep!!.  
+🌃if you meet me in social media at midnight, please __TELL ME TO SLEEP!!__.  
 
 
-💐\ A-SOUL /\ A-SOUL /\ A-SOUL /\ A-SOUL /\ A-SOUL /🍬🍦☔🌟🤡 
+💐\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /🍬🍦☔🌟🤡 
 
   <!--
 
