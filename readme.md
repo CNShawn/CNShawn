@@ -4,12 +4,17 @@
 
 😃I'm a freshman at Shenzhen University majoring in electronics and information engineering.  
 
+
 📝 My interests include machine learning, image processing and computer vision.  
+
+
 🖥️ A New Kaggler, aim to learn more theory and experience through competition.  
+
 
 🌃if you meet me in social media at midnight, please tell me to sleep!!.  
 
-💐\A-SOUL/\A-SOUL/\A-SOUL/\A-SOUL/\A-SOUL/🍬🍦☔🌟🤡 
+
+**\A-SOUL/\A-SOUL/\A-SOUL/\A-SOUL/\A-SOUL/**🍬🍦☔🌟🤡 
 
   <!--
 
