@@ -1,16 +1,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)  
-![](https://visitor-badge.glitch.me/badge?page_id=CNShawn.readme)
+# Hi there :beers:
 
-# Hi there 🀄<img align="right" src="https://profile-counter.glitch.me/CNShawn/count.svg" />
+- 😃I'm a freshman at Shenzhen University majoring in electronics and information engineering.
 
-- :cry: I’m A noob in Shenzhen University
+- 📝 My interests include machine learning, image processing and computer vision.
 
-- :kissing_smiling_eyes: interested in Computer Vision and Audio
+- 🖥️ A New Kaggler, aim to learn more theory and experience through competition.
 
-- :memo: A New Kaggler
+- 🌃if you meet me in social media at midnight, please tell me to sleep!!.
 
-- :open_hands:Welcome to subsribe my Wechat channel "EF实验室"
+- 💐\A-SOUL/\A-SOUL/\A-SOUL/\A-SOUL/🍬🍦☔🌟🤡 
 
   <!--
 
