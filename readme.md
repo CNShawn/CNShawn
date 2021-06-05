@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)  
 # Hi there :beers:
 
-😃I'm a freshman at Shenzhen University majoring in electronics and information engineering.  
+😃I'm a freshman at __Shenzhen University__ majoring in electronics and information engineering.  
 
 
 📝 My interests include machine learning, image processing and computer vision.  
