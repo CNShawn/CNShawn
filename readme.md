@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)  
 ![](https://visitor-badge.glitch.me/badge?page_id=CNShawn.readme)
 
-# Hi there 🀄
+# Hi there 🀄<img align="right" src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
 
 - :cry: I’m A noob in Shenzhen University
 
