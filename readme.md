@@ -1,6 +1,6 @@
+![](https://visitor-badge.glitch.me/badge?page_id=CNShawn.readme)
+![](http://antzuhl.cn:4000/get/@CNShawn.readme)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)
-
-![avartar](https://bigjpg-server.oss-accelerate.aliyuncs.com/free/c15e08f1f30b5df9172f38f905f34f42_2_1_art.jpeg)
 
 # Hi there 🀄
 
