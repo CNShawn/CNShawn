@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)
 
-### Hi there :heart_eyes:
+![avartar](https://bigjpg-server.oss-accelerate.aliyuncs.com/free/c15e08f1f30b5df9172f38f905f34f42_2_1_art.jpeg)
+
+# Hi there :heart_eyes:
 
 - :cry:I’m A noob in ShenZhen University:dizzy_face:
 
