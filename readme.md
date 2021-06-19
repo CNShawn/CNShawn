@@ -5,7 +5,7 @@
 😃I'm a freshman at __Shenzhen University__ majoring in electronics and information engineering.  
 
 
-📝 My interests include machine learning, image processing and computer vision.  
+📝 My interests include __machine learning, image processing__ and __computer vision__.  
 
 
 🖥️ A New Kaggler, aim to learn more theory and experience through competition.  
