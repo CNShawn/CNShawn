@@ -1,5 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNShawn&theme=nightowl&include_all_commits=true)  
+<img align="right" src="https://count.getloli.com/get/@cCNShawn" />
 # Hi there! :beers:
 
 😃I'm a freshman at __Shenzhen University__ majoring in electronics and information engineering.  
@@ -16,5 +17,5 @@
 
 💐\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /🍬🍦☔🌟🤡 
 
- [![CNShaw's github stats](https://github-readme-stats.vercel.app/api?username=CNShaw&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
