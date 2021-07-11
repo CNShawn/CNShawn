@@ -16,21 +16,5 @@
 
 💐\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /🍬🍦☔🌟🤡 
 
-  <!--
-
-  *😅 I’m looking to collaborate on ...
-
-  *😅 I’m looking for help with ...
-
-  *😅Ask me about ...
-
-  *😅 How to reach me: ...
-
-  *😅 Pronouns: ...
-
-  *😅 Fun fact: ...
-
-  -->
-
-
+ [![CNShaw's github stats](https://github-readme-stats.vercel.app/api?username=CNShaw&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
