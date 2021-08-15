@@ -13,8 +13,3 @@
 
 🌃if you meet me in social media at midnight, please __TELL ME TO SLEEP!!__.  
 
-
-💐\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /\ __A-SOUL__ /🍬🍦☔🌟🤡 
-
- 
-
